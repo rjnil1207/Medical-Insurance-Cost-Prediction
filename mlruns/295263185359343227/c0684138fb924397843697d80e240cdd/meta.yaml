@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/295263185359343227/c0684138fb924397843697d80e240cdd/artifacts
+deleted_time: 1753382121481
+end_time: 1753381943428
+entry_point_name: ''
+experiment_id: '295263185359343227'
+lifecycle_stage: deleted
+run_id: c0684138fb924397843697d80e240cdd
+run_name: GradientBoostingRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753381932696
+status: 3
+tags: []
+user_id: Nil

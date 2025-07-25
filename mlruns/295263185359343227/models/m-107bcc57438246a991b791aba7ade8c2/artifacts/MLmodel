@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/295263185359343227/models/m-107bcc57438246a991b791aba7ade8c2/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.3
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 3.0.2
+mlflow_version: 3.1.1
+model_id: m-107bcc57438246a991b791aba7ade8c2
+model_size_bytes: 36602
+model_uuid: m-107bcc57438246a991b791aba7ade8c2
+prompts: null
+run_id: 54a05f18e4b344958bddeae935395e50
+utc_time_created: '2025-07-24 18:31:27.264406'

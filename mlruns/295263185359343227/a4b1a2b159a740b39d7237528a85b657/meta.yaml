@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/295263185359343227/a4b1a2b159a740b39d7237528a85b657/artifacts
+deleted_time: 1753381749915
+end_time: 1753337360951
+entry_point_name: ''
+experiment_id: '295263185359343227'
+lifecycle_stage: deleted
+run_id: a4b1a2b159a740b39d7237528a85b657
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753337341278
+status: 3
+tags: []
+user_id: Nil

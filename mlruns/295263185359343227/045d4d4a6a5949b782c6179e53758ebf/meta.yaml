@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/295263185359343227/045d4d4a6a5949b782c6179e53758ebf/artifacts
+deleted_time: 1753381749895
+end_time: 1753337403637
+entry_point_name: ''
+experiment_id: '295263185359343227'
+lifecycle_stage: deleted
+run_id: 045d4d4a6a5949b782c6179e53758ebf
+run_name: xgb.XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753337392188
+status: 3
+tags: []
+user_id: Nil

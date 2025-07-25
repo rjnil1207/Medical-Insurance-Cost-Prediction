@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/295263185359343227/models/m-2dc3ee86f40346ed8e3b410585f11de6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.1.1
+model_id: m-2dc3ee86f40346ed8e3b410585f11de6
+model_size_bytes: 5369
+model_uuid: m-2dc3ee86f40346ed8e3b410585f11de6
+prompts: null
+run_id: 6367eee2c7ea45ebad729be12f9de121
+utc_time_created: '2025-07-24 18:31:51.160880'
