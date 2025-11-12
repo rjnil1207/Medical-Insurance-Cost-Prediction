@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/764536676328686377/models/m-8fa965c8fe624506b3ec5262d7399dc0/artifacts
+creation_timestamp: 1762968230138
+experiment_id: '764536676328686377'
+last_updated_timestamp: 1762968242084
+model_id: m-8fa965c8fe624506b3ec5262d7399dc0
+model_type: null
+name: model
+source_run_id: 69ea03bd8ee34a50998872d749261e1c
+status: 2
+status_message: null

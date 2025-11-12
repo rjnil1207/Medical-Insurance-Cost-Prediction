@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/764536676328686377/ca9eab3832654705ae664d96341e4043/artifacts
+end_time: 1762968251362
+entry_point_name: ''
+experiment_id: '764536676328686377'
+lifecycle_stage: active
+run_id: ca9eab3832654705ae664d96341e4043
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762968242118
+status: 3
+tags: []
+user_id: Nil

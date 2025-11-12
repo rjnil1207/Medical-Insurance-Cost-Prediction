@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nil/Documents/GUVI PROJECT/Medical Insurance Predict
+  ML/mlruns/764536676328686377/2f37506d59e94577ac20056c9f5ce418/artifacts
+end_time: 1762968260872
+entry_point_name: ''
+experiment_id: '764536676328686377'
+lifecycle_stage: active
+run_id: 2f37506d59e94577ac20056c9f5ce418
+run_name: RandomForestRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762968251370
+status: 3
+tags: []
+user_id: Nil
