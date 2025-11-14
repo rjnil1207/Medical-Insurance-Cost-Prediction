@@ -59,6 +59,7 @@ with b:
         try:
             prediction = model.predict(input_scaled)[0]
             st.success(f"💰**Estimated Insurance Cost: ₹{prediction:,.2f}**")
+            st.caption("Note: The model has an average error of about ₹ 2,400.00")
         except Exception as e:
             st.error(f"Prediction failed: {e}")
 
