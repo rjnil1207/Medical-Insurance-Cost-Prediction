@@ -20,8 +20,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("---")
-
 # Input Section
 st.subheader("🧾 Fill in Your Details")
 
